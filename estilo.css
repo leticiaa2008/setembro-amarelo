@@ -1,0 +1,27 @@
+@import url('https://fonts.cdnfonts.com/css/elowen');
+
+h3{
+    font-family: 'Elowen', sans-serif;
+}
+
+body{
+    background-color: #fef8cd;
+    margin: 0;
+}
+.logo{
+    width: 100%;
+    zoom: 1.2;
+}
+div{
+    margin: 0 auto;
+    width: 75%;
+    padding: 5%;
+    background-color: white; /* Cor do plano de fundo */
+   
+    border-radius: 15px;
+     border: 2px solid black;  
+    box-shadow: 0 0 10px  rgb(0, 0, 0) ;
+}
+p{
+    margin-bottom: 8% ;
+}
